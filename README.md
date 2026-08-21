@@ -6,7 +6,7 @@ The support and privacy contact is KumsornOfficial@gmail.com. Keep this address 
 
 Publish this exact folder with a static host such as GitHub Pages, Vercel, Netlify, or your own website. The final URLs needed in App Store Connect are:
 
-- `https://YOUR-DOMAIN/privacy.html` — Privacy Policy URL
-- `https://YOUR-DOMAIN/terms.html` — Support URL or Terms link
+- `https://kumsornofficial2026.github.io/kumsorn-legal/privacy.html` — Privacy Policy URL
+- `https://kumsornofficial2026.github.io/kumsorn-legal/terms.html` — Support URL or Terms link
 
 Do not submit the app while the placeholder email is still present.
