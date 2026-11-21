@@ -1,0 +1,1 @@
+async function e(e,t,n){try{return await navigator.clipboard.writeText(e),n.textContent=`คัดลอกแล้ว`,!0}catch{return t.hidden=!1,t.value=e,t.focus(),t.select(),n.textContent=`เลือกข้อความให้แล้ว กดคัดลอกได้เลย`,!1}}export{e as t};
