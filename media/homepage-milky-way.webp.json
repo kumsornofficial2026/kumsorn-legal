@@ -1,0 +1,9 @@
+{
+  "source": "https://www.pexels.com/photo/milky-way-over-mountains-at-night-3213577/",
+  "author": "Mengliu Di",
+  "license": "https://www.pexels.com/license/",
+  "sourceDimensions": [6122, 4084],
+  "sourceSha256": "c94a7c6cbeb41e8bf2bcd5e55b98db44c3a59c10fa3f1aa39514654f2b972cdc",
+  "crop": { "x": 0, "y": 1220, "width": 4160, "height": 2340 },
+  "variants": ["homepage-milky-way-1920.webp", "homepage-milky-way-3840.webp"]
+}
