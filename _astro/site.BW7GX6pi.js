@@ -1,0 +1,1 @@
+var e=`quotes/images/`,t=`/kumsorn-legal/`.replace(/\/$/,``),n=(e=``)=>`${t}/${e.replace(/^\//,``)}`,r=(e,t=``)=>n(`${e===`en`?`en/`:``}${t}`),i=(t,n=`square`)=>`${r(`th`,e)}#quote=${encodeURIComponent(t)}${n===`square`?``:`&format=${n}`}`;export{r as n,i as r,e as t};

@@ -1,0 +1,1 @@
+function e(){return new URLSearchParams(location.search).get(`template`)}function t(e,t=``){let n=new URL(location.pathname,location.origin);return n.searchParams.set(`template`,e),n.hash=t,n.href}export{e as n,t};

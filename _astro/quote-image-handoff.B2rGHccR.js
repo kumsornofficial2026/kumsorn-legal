@@ -1,0 +1,1 @@
+var e=`kumsorn-image-handoff`;function t(t){sessionStorage.setItem(e,t)}function n(){try{let t=sessionStorage.getItem(e);return sessionStorage.removeItem(e),t}catch{return null}}export{n,t};

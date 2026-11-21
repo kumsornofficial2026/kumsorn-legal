@@ -1,0 +1,1 @@
+var e=new WeakMap;function t(t){for(let n of document.querySelectorAll(`.nav-download[href*="apps.apple.com"], main a[href*="apps.apple.com"]`)){let r=new URL(n.href);if(!r.pathname.includes(`/id6803007415`))continue;let i=e.get(n)??r.searchParams.get(`ct`);if(!i)continue;e.set(n,i);let a=t??i;r.searchParams.get(`ct`)!==a&&(r.searchParams.set(`ct`,a),n.href=r.href)}}export{t};
